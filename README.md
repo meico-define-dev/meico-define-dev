@@ -8,6 +8,8 @@
 Power Queryで構築していた処理をPythonへ移行し、  
 再利用性・保守性の高いデータ処理の仕組みづくりに取り組んでいます。
 
+現在、業務で使用するデータ処理のPython化に取り組んでいます。
+
 ---
 
 ## 🚀 What I Do
@@ -50,4 +52,4 @@ I specialize in understanding real-world operations and translating them into ef
 
 ## 📦 Projects
 
-- Coming soon...
+- - Data processing tool (in progress)
