@@ -18,6 +18,7 @@ Power Queryで構築していた処理をPythonへ移行し、
 - 業務データの自動化
 - 要件定義・業務整理
 - Power Query → Pythonへの置き換え
+- ChatGPTを活用した設計／実装の効率化
 
 ---
 
@@ -54,4 +55,4 @@ I leverage ChatGPT to streamline design, implementation, and data processing wor
 
 ## 📦 Projects
 
-- - Data processing tool (in progress)
+- Daily CSV processing tool (Python + DuckDB) - in progress
