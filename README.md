@@ -44,6 +44,8 @@ Turning business needs into structured data solutions.
 
 I specialize in understanding real-world operations and translating them into efficient data processing and automation workflows.
 
+I leverage ChatGPT to streamline design, implementation, and data processing workflows.
+
 - Python (pandas, DuckDB)
 - Power Query / Excel automation
 - Data transformation & ETL
